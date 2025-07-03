@@ -61,7 +61,16 @@
 
 # 個人的な結果
 
-（正式発表あったら、更新予定）
+## 試験後の自己採点
 
 - 午前：64/80=80点 ←自己採点  
 - 午後：6割あるかないかの感覚 ←いろんなところで凡ミスを積み重ねていた。。。  
+
+## 結果
+
+![image](https://github.com/user-attachments/assets/f8521548-977c-48e6-8465-e00269ec8487)
+
+### 午前：得点詳細、午後：受けた科目
+
+![image](https://github.com/user-attachments/assets/2ff84451-8bbd-4e05-895d-0a8f434e7b88)
+
